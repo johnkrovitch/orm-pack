@@ -3,11 +3,11 @@
     "description": "Mutualize ORM composer dependencies",
     "type": "symfony-pack",
     "require": {
-        "gedmo/doctrine-extensions": "^2.4",
-        "johnkrovitch/repository": "^1.0",
-        "stof/doctrine-extensions-bundle": "^1.3",
-        "symfony/orm-pack": "^1.0",
-        "babdev/pagerfanta-bundle": "^2.5"
+        "gedmo/doctrine-extensions": "*",
+        "johnkrovitch/repository": "*",
+        "stof/doctrine-extensions-bundle": "*",
+        "symfony/orm-pack": "*",
+        "babdev/pagerfanta-bundle": "*"
     },
     "license": "MIT",
     "authors": [
