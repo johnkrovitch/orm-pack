@@ -7,7 +7,7 @@
         "johnkrovitch/repository": "^1.0",
         "stof/doctrine-extensions-bundle": "^1.3",
         "symfony/orm-pack": "^1.0",
-        "white-october/pagerfanta-bundle": "^1.3"
+        "babdev/pagerfanta-bundle": "^2.5"
     },
     "license": "MIT",
     "authors": [
