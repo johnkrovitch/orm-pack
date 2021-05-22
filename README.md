@@ -14,7 +14,6 @@ composer require johnkrovitch/orm-pack
 {
     "require": {
         "gedmo/doctrine-extensions": "*",
-        "johnkrovitch/repository": "*",
         "stof/doctrine-extensions-bundle": "*",
         "symfony/orm-pack": "*",
         "babdev/pagerfanta-bundle": "*"
