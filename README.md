@@ -13,10 +13,12 @@ composer require johnkrovitch/orm-pack
 ```json
 {
     "require": {
+        "babdev/pagerfanta-bundle": "*",
         "gedmo/doctrine-extensions": "*",
+        "pagerfanta/doctrine-collections-adapter": "^3.2",
+        "pagerfanta/doctrine-orm-adapter": "^3.2",
         "stof/doctrine-extensions-bundle": "*",
-        "symfony/orm-pack": "*",
-        "babdev/pagerfanta-bundle": "*"
+        "symfony/orm-pack": "*"
     }
 }
 ```
