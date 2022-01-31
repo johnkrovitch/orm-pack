@@ -5,8 +5,9 @@
     "require": {
         "babdev/pagerfanta-bundle": "*",
         "gedmo/doctrine-extensions": "*",
-        "pagerfanta/doctrine-collections-adapter": "^3.2",
-        "pagerfanta/doctrine-orm-adapter": "^3.2",
+        "pagerfanta/doctrine-collections-adapter": "*",
+        "pagerfanta/doctrine-orm-adapter": "*",
+        "pagerfanta/twig": "*",
         "stof/doctrine-extensions-bundle": "*",
         "symfony/orm-pack": "*"
     },
